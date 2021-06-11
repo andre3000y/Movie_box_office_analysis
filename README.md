@@ -33,14 +33,7 @@ The main results that we have found within our data sets is that the most profit
 
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
+Animations and Musicals are killing it in the industry.  Actor reccommendations include Alan Tudyk and J.K. Simmons.
 
 ## For More Information
 
