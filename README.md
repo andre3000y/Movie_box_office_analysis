@@ -37,7 +37,7 @@ Animations and Musicals are killing it in the industry.  Actor reccommendations 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook]('./The_Notebook.ipynb') or our [presentation]('./project_1_powerpoint.pdf').
+Please review our full analysis in [our Jupyter Notebook](The_Notebook.ipynb) or our [presentation](project_1_powerpoint.pdf).
 
 For any additional questions, please contact 
 Daniel Blake: dablake@bsc.edu
